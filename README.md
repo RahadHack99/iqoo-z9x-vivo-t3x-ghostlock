@@ -1,13 +1,15 @@
-# iQOO Z9 5G / Vivo T3 5G GhostLock Root
+# iQOO Z9x / Vivo T3x GhostLock Root
 
-One-tap root solution for iQOO Z9 5G (I2302) and Vivo T3 5G (V2334) using CVE-2026-43499 exploit with KernelSU integration.
+Root solution for iQOO Z9x (I2219) and Vivo T3x (V2407) using CVE-2026-43499 exploit with KernelSU.
+
+**Z9x/T3x ONLY** - Not compatible with Z9 5G or T3 5G
 
 ## 🎯 Supported Devices
 
 | Device | Model | Kernel | SoC |
 |--------|-------|--------|-----|
-| iQOO Z9 5G | I2302 | 5.15.178-android13-8 | MediaTek MT6886 |
-| Vivo T3 5G | V2334 | 5.15.178-android13-8 | MediaTek MT6886 |
+| iQOO Z9x | I2219 | 5.10.246-android12-9 | Snapdragon 6 Gen 1 |
+| Vivo T3x | V2407 | 5.10.246-android12-9 | Snapdragon 6 Gen 1 |
 
 ## ✨ Features
 
